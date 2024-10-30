@@ -1,3 +1,3 @@
 n=input('Enter any word')
 
-print("I love you Friend")
+print("I love you Friend")  
